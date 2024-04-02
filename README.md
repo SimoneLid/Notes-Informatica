@@ -1,7 +1,7 @@
 # Notes-Informatica
  
 Appunti della mia laurea triennale in Informatica.<br>
-Nel caso si vogliano vedere gli esercizi e progetti di Basi di Dati 2, consultare questa altra repository: [Esercizi Basi di Dati 2](https://github.com/SimoneLid/BD2)
+Nel caso si vogliano vedere gli esercizi e progetti di Basi di Dati 2, consultare questa altra repository:<br>[Esercizi Basi di Dati 2](https://github.com/SimoneLid/BD2)
 
 ## Anno 1
 ### Primo Semestre
