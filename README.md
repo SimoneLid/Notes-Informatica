@@ -9,7 +9,7 @@ Nel caso si vogliano vedere gli esercizi e progetti di Basi di Dati 2, consultar
 |:---:|:---------:|:--:|
 |[Calcolo Differenziale](../../raw/main/Anno1PrimoSemestre/Calcolo%20Differenziale/Calcolo%20Differenziale.pdf)|Definizioni e Formule|2022/2023|
 |[Metodi Matematici per l'Informatica](../../raw/main/Anno1PrimoSemestre/Metodi%20Matematici%20per%20l'Informatica/Metodi%20Matematici%20per%20l'Informatica.pdf)|Definizioni e Formule|2022/2023|
-|[Progettazione di Sistemi Digitali](../../raw/main/Anno1PrimoSemestre/Progettazione%20di%20Sistemi%20Digitali.pdf)|Definizioni e Formule|2022/2023|
+|[Progettazione di Sistemi Digitali](../../raw/main/Anno1PrimoSemestre/Progettazione%20di%20Sistemi%20Digitali/Progettazione%20di%20Sistemi%20Digitali.pdf)|Definizioni e Formule|2022/2023|
 |Fondamenti di Programmazione|-|2022/2023|
 
 ### Secondo Semestre
