@@ -17,7 +17,7 @@ Nel caso si vogliano vedere gli esercizi e progetti di Basi di Dati 2, consultar
 |:---:|:---------:|:--:|
 |[Calcolo Integrale](../../raw/main/Anno1SecondoSemestre/Calcolo%20Integrale.pdf)|Definizioni, Formule e Esercizi|2022/2023|
 |[Introduzione agli Algoritmi](../../raw/main/Anno1SecondoSemestre/Introduzione%20agli%20Algoritmi.pdf)|Definizioni e Formule|2022/2023|
-|[Architettura degli Elaboratori](../../raw/main/Anno1SecondoSemestre/Architettura%20degli%20Elaboratori.pdf)|Tabelle e Formule|2022/2023|
+|[Architettura degli Elaboratori](../../raw/main/Anno1SecondoSemestre/Architettura%20degli%20Elaboratori/Architettura%20degli%20Elaboratori.pdf)|Tabelle e Formule|2022/2023|
 |[Metodologie di Programmazione](../../raw/main/Anno1SecondoSemestre/Metodologie%20di%20Programmazione.pdf)|Definizioni|2022/2023|
 
 
