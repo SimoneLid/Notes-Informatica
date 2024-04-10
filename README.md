@@ -1,7 +1,9 @@
 # Notes-Informatica
  
 Appunti della mia laurea triennale in Informatica.<br>
-Nel caso si vogliano vedere gli esercizi e progetti di Basi di Dati 2, consultare questa altra repository:<br>[Esercizi Basi di Dati 2](https://github.com/SimoneLid/BD2)
+Nel caso si vogliano vedere gli esercizi e progetti di Basi di Dati 2, consultare questa altra repository:<br>
+[Esercizi Basi di Dati 2](https://github.com/SimoneLid/BD2)
+
 
 ## Anno 1
 ### Primo Semestre
@@ -15,10 +17,10 @@ Nel caso si vogliano vedere gli esercizi e progetti di Basi di Dati 2, consultar
 ### Secondo Semestre
 |Corso|Descrizione|Anno|
 |:---:|:---------:|:--:|
-|[Calcolo Integrale](../../raw/main/Anno1SecondoSemestre/Calcolo%20Integrale.pdf)|Definizioni, Formule e Esercizi|2022/2023|
-|[Introduzione agli Algoritmi](../../raw/main/Anno1SecondoSemestre/Introduzione%20agli%20Algoritmi.pdf)|Definizioni e Formule|2022/2023|
+|[Calcolo Integrale](../../raw/main/Anno1SecondoSemestre/Calcolo%20Integrale/Calcolo%20Integrale.pdf)|Definizioni, Formule e Esercizi|2022/2023|
+|[Introduzione agli Algoritmi](../../raw/main/Anno1SecondoSemestre/Introduzione%20agli%20Algoritmi/Introduzione%20agli%20Algoritmi.pdf)|Definizioni e Formule|2022/2023|
 |[Architettura degli Elaboratori](../../raw/main/Anno1SecondoSemestre/Architettura%20degli%20Elaboratori/Architettura%20degli%20Elaboratori.pdf)|Tabelle e Formule|2022/2023|
-|[Metodologie di Programmazione](../../raw/main/Anno1SecondoSemestre/Metodologie%20di%20Programmazione.pdf)|Definizioni|2022/2023|
+|[Metodologie di Programmazione](../../raw/main/Anno1SecondoSemestre/Metodologie%20di%20Programmazione/Metodologie%20di%20Programmazione.pdf)|Definizioni|2022/2023|
 
 
 ## Anno 2
