@@ -1,7 +1,7 @@
 # Notes-Informatica
  
 Appunti della mia laurea triennale in Informatica.<br>
-Per alcuni esami molto pratici verranno linkate le mie repository associate a quel determinato esame.
+Per alcuni esami molto pratici (contrassegnati con <strong>*</strong>) verranno linkate le mie repository associate a quel determinato esame.
 
 
 ## Anno 1
@@ -35,6 +35,6 @@ Per alcuni esami molto pratici verranno linkate le mie repository associate a qu
 |Corso|Descrizione|Anno|
 |:---:|:---------:|:--:|
 |[Progettazione di Algoritmi](../../raw/main/Anno2PrimoSemestre/Progettazione%20di%20Algoritmi/Progettazione%20di%20Algoritmi.pdf)|Definizioni e Formule|2023/2024|
-|[Sistemi Operativi 2](https://github.com/SimoneLid/ANSI-C)|Progetto|2023/2024|
-|[Basi di Dati 2](https://github.com/SimoneLid/BD2)|Esercizi e Progetti|2023/2024|
+|[Sistemi Operativi 2*](https://github.com/SimoneLid/ANSI-C)|Progetto|2023/2024|
+|[Basi di Dati 2*](https://github.com/SimoneLid/BD2)|Esercizi e Progetti|2023/2024|
 |Reti di Elaboratori|-|2023/2024|
