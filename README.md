@@ -27,7 +27,7 @@ Nel caso si vogliano vedere gli esercizi e progetti di Basi di Dati 2, consultar
 ### Primo Semestre
 |Corso|Descrizione|Anno|
 |:---:|:---------:|:--:|
-|[Algebra](../../raw/main/Anno2PrimoSemestre/Agebra.pdf)|Definizioni, Formule e Esercizi|2023/2024|
-|[Calcolo delle Probabilità](../../raw/main/Anno2PrimoSemestre/Calcolo%20delle%20Probabilità.pdf)|Definizioni e Formule|2023/2024|
-|[Sistemi Operativi 1](../../raw/main/Anno2PrimoSemestre/Sistemi%20Operativi%201.pdf)|Formule e Esercizi|2023/2024|
-|[Basi di Dati 1](../../raw/main/Anno2PrimoSemestre/Basi%20di%20Dati%201.pdf)|Definizioni, Formule e Esercizi|2023/2024|
+|[Algebra](../../raw/main/Anno2PrimoSemestre/Algebra/Algebra.pdf)|Definizioni, Formule e Esercizi|2023/2024|
+|[Calcolo delle Probabilità](../../raw/main/Anno2PrimoSemestre/Calcolo%20delle%20Probabilità/Calcolo%20delle%20Probabilità.pdf)|Definizioni e Formule|2023/2024|
+|[Sistemi Operativi 1](../../raw/main/Anno2PrimoSemestre/Sistemi%20Operativi%201/Sistemi%20Operativi%201.pdf)|Formule e Esercizi|2023/2024|
+|[Basi di Dati 1](../../raw/main/Anno2PrimoSemestre/Basi%20di%20Dati%201/Basi%20di%20Dati%201.pdf)|Definizioni, Formule e Esercizi|2023/2024|
