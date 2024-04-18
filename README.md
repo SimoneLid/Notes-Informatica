@@ -1,8 +1,7 @@
 # Notes-Informatica
  
 Appunti della mia laurea triennale in Informatica.<br>
-Nel caso si vogliano vedere gli esercizi e progetti di Basi di Dati 2, consultare questa altra repository:<br>
-[Esercizi Basi di Dati 2](https://github.com/SimoneLid/BD2)
+Per alcuni esami molto pratici verranno linkate le mie repository associate a quel determinato esame.
 
 
 ## Anno 1
@@ -31,3 +30,11 @@ Nel caso si vogliano vedere gli esercizi e progetti di Basi di Dati 2, consultar
 |[Calcolo delle Probabilità](../../raw/main/Anno2PrimoSemestre/Calcolo%20delle%20Probabilità/Calcolo%20delle%20Probabilità.pdf)|Definizioni e Formule|2023/2024|
 |[Sistemi Operativi 1](../../raw/main/Anno2PrimoSemestre/Sistemi%20Operativi%201/Sistemi%20Operativi%201.pdf)|Formule e Esercizi|2023/2024|
 |[Basi di Dati 1](../../raw/main/Anno2PrimoSemestre/Basi%20di%20Dati%201/Basi%20di%20Dati%201.pdf)|Definizioni, Formule e Esercizi|2023/2024|
+
+### Secondo Semestre
+|Corso|Descrizione|Anno|
+|:---:|:---------:|:--:|
+|[Progettazione di Algoritmi](../../raw/main/Anno2PrimoSemestre/Progettazione%20di%20Algoritmi/Progettazione%20di%20Algoritmi.pdf)|Definizioni e Formule|2023/2024|
+|[Sistemi Operativi 2](https://github.com/SimoneLid/ANSI-C)|Progetto|2023/2024|
+|[Basi di Dati 2](https://github.com/SimoneLid/BD2)|Esercizi e Progetti|2023/2024|
+|Reti di Elaboratori|-|2023/2024|
