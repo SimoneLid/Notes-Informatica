@@ -1,3 +1,0 @@
-ArrayList<String> array = new ArrayList<String>();
-array.add("ciao");
-System.out.println(array[1]);
