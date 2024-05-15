@@ -36,5 +36,5 @@ Per alcuni esami molto pratici (contrassegnati con <strong>*</strong>) verranno 
 |:---:|:---------:|:--:|
 |[Progettazione di Algoritmi](../../raw/main/Anno2SecondoSemestre/Progettazione%20di%20Algoritmi/Progettazione%20di%20Algoritmi.pdf)|Definizioni, Formule e Esercizi|2023/2024|
 |[Sistemi Operativi 2*](https://github.com/SimoneLid/ANSI-C)|Progetto|2023/2024|
-|[Basi di Dati 2*](https://github.com/SimoneLid/BD2)|Progetti|2023/2024|
+|[Basi di Dati 2*](https://github.com/SimoneLid/BD2)|Progetti e Prove D'Esame|2023/2024|
 |Reti di Elaboratori|-|2023/2024|
