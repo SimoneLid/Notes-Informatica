@@ -3,4 +3,7 @@ Template
 *.tex
 *.listing
 *.gz
+*.log
+*.aux
+*.toc
 !*.pdf
