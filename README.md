@@ -1,7 +1,9 @@
 # Notes-Informatica
  
 Appunti della mia laurea triennale in Informatica.<br>
-Per alcuni esami molto pratici (contrassegnati con <strong>*</strong>) verranno linkate le mie repository associate a quel determinato esame.
+```
+Per alcuni esami molto pratici di cui non ci sono appunti (contrassegnati con *), verranno linkate le mie repository associate a quel determinato esame.
+```
 
 
 ## Anno 1
@@ -38,3 +40,14 @@ Per alcuni esami molto pratici (contrassegnati con <strong>*</strong>) verranno 
 |[Sistemi Operativi 2*](https://github.com/SimoneLid/ANSI-C)|Progetto|2023/2024|
 |[Basi di Dati 2*](https://github.com/SimoneLid/BD2)|Progetti e Prove D'Esame|2023/2024|
 |Reti di Elaboratori|-|2023/2024|
+
+
+## Anno 3
+### Primo Semestre
+|Corso|Descrizione|Anno|
+|:---:|:---------:|:--:|
+|Automi Calcolabilità e Complessità|Da fare|2024/2025|
+|Progettazione di Sistemi Embedded e Multicore|Da fare|2024/2025|
+|Interazione Uomo Macchina|Da fare (forse)|2024/2025|
+|Ingegneria del Software|-|2024/2025|
+|Progettazione per il Web|-|2024/2025|
