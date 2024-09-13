@@ -1,9 +1,9 @@
 # Notes-Informatica
  
 Appunti della mia laurea triennale in Informatica.<br>
-```
-Per alcuni esami molto pratici di cui non ci sono appunti (contrassegnati con *), verranno linkate le mie repository associate a quel determinato esame.
-```
+### Informazioni sui Progetti
+Per alcuni esami molto pratici di cui non ci sono appunti (contrassegnati con <strong>*</strong>), verranno linkate le mie repository associate a quel determinato esame.
+
 
 
 ## Anno 1
