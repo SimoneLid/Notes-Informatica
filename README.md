@@ -46,8 +46,8 @@ Per alcuni esami molto pratici di cui non ci sono appunti (contrassegnati con <s
 ### Primo Semestre
 |Corso|Descrizione|Anno|
 |:---:|:---------:|:--:|
-|Automi Calcolabilità e Complessità|Da fare|2024/2025|
-|Progettazione di Sistemi Embedded e Multicore|Da fare|2024/2025|
+|[Automi Calcolabilità e Complessità](../../raw/main/Anno3PrimoSemestre/Automi%20Calcolabilità%20e%20Complessità/Automi%20Calcolabilità%20e%20Complessità.pdf)|Da fare|2024/2025|
+|[Progettazione di Sistemi Embedded e Multicore](../../raw/main/Anno3PrimoSemestre/Progettazione%20di%20Sistemi%20Embedded%20e%20Multicore/Progettazione%20di%20Sistemi%20Embedded%20e%20Multicore.pdf)|Da fare e Progetto|2024/2025|
 |Interazione Uomo Macchina|Da fare (forse)|2024/2025|
-|Ingegneria del Software|-|2024/2025|
-|Progettazione per il Web|-|2024/2025|
+|Ingegneria del Software*|Progetto|2024/2025|
+|Progettazione per il Web*|Progetto|2024/2025|
