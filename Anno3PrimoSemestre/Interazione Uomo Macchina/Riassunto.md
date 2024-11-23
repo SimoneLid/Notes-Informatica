@@ -172,7 +172,7 @@ sperimentare?
 - comportamenti: come utilizza il sistema? quali sono le sue
 abitudini?
 
-I vantaggi dei persona sono:
+I vantaggi dei personas sono:
 - creare empatia: aiuta il designer acquisire una
 prospettiva simile a quella dell'utente, avendo interiorizzato gli
 obiettivi, i bisogni e i desideri della persona

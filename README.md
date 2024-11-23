@@ -48,6 +48,6 @@ Per alcuni esami molto pratici di cui non ci sono appunti (contrassegnati con <s
 |:---:|:---------:|:--:|
 |[Automi Calcolabilità e Complessità](../../raw/main/Anno3PrimoSemestre/Automi%20Calcolabilità%20e%20Complessità/Automi%20Calcolabilità%20e%20Complessità.pdf)|Definizioni, Formule e Esercizi|2024/2025|
 |[Programmazione di Sistemi Embedded e Multicore](../../raw/main/Anno3PrimoSemestre/Programmazione%20di%20Sistemi%20Embedded%20e%20Multicore/Programmazione%20di%20Sistemi%20Embedded%20e%20Multicore.pdf)|Definizioni e Progetto|2024/2025|
+|[Interazione Uomo Macchina](../../raw/main/Anno3PrimoSemestre/Interazione%20Uomo%20Macchina/Interazione%20Uomo%20Macchina.pdf)|Definizioni|2024/2025|
 |[Progettazione per il Web*](https://github.com/SimoneLid/WASAPhoto)|Progetto|2024/2025|
-|Interazione Uomo Macchina|-|2024/2025|
 |Ingegneria del Software|-|2024/2025|
