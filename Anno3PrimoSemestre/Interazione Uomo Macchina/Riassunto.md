@@ -418,8 +418,6 @@ L'**affordance** è la relazione tra le proprietà di un oggetto e la capacità 
 
 I **signifiers** sono degli indizi che aiutano l'utente a capire cosa fare con un determinato oggetto (frecce, scritte, simboli), sono utili soprattutto nel caso in cui l'affordance non è ovvia e permettono di rendere le azioni intese per quell'oggetto più esplicite.
 
-Fatto fino a 17bis
-
 
 # Progetto di applicazioni mobili
 ## Contesti d'uso e caratteristiche
