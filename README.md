@@ -51,3 +51,9 @@ Per alcuni esami molto pratici di cui non ci sono appunti (contrassegnati con <s
 |[Interazione Uomo Macchina](../../raw/main/Anno3PrimoSemestre/Interazione%20Uomo%20Macchina/Interazione%20Uomo%20Macchina.pdf)|Definizioni|
 |[Programmazione per il Web*](https://github.com/SimoneLid/WASAText)|Progetto|
 |Ingegneria del Software|-|
+
+### Secondo Semestre
+|Corso|Descrizione|
+|:---:|:---------:|
+|[Linguaggi e Compilatori](../../raw/main/Anno3SecondoSemestre/Linguaggi%20e%20Compilatori/Linguaggi%20e%20Compilatori.pdf)|Formule e Esercizi|
+|AI Lab|Progetto|
