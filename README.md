@@ -56,4 +56,4 @@ Per alcuni esami molto pratici di cui non ci sono appunti (contrassegnati con <s
 |Corso|Descrizione|
 |:---:|:---------:|
 |[Linguaggi e Compilatori](../../raw/main/Anno3SecondoSemestre/Linguaggi%20e%20Compilatori/Linguaggi%20e%20Compilatori.pdf)|Formule e Esercizi|
-|AI Lab|Progetto|
+|[AI Lab](https://github.com/SimoneLid/LordOfTheLine)|Progetto|
